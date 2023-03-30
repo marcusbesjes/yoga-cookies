@@ -10,7 +10,7 @@ npm install && npm run start
 
 2. Trigger the bug
 
-Visit `http://localhost:4001` in a browser or
+Visit `http://localhost:4009` in a browser or
 
 ```shell
 curl localhost:4009
